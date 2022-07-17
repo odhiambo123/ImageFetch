@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ImageFetch</string>
+    <string name="results_could_not_be_loaded">Results could not be loaded</string>
+    <string name="retry">Retry</string>
+    <string name="username">username</string>
+    <string name="contains_the_image">contains the image</string>
+    <string name="search">Search</string>
+    <string name="resuslts_could_not_be_loaded">Resuslts Could not be loaded</string>
+    <string name="retry_load_state">Retry</string>
+    <string name="no_results_found">No results found</string>
+</resources>
